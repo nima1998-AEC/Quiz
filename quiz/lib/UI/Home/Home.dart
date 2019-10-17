@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:persian_numbers/persian_numbers.dart';
 
 class Home extends StatefulWidget {
@@ -9,7 +10,6 @@ class Home extends StatefulWidget {
 var pageHeight;
 
 class _Home extends State<Home> {
-
   @override
   void initState() {
     super.initState();
@@ -162,7 +162,7 @@ class _Home extends State<Home> {
                                     ),
                                   ),
                                   Icon(
-                                    Icons.people,
+                                    FontAwesomeIcons.users,
                                     color: Colors.white,
                                   ),
                                 ],
@@ -197,7 +197,7 @@ class _Home extends State<Home> {
                             padding: EdgeInsets.all(0.0),
                             child: IconButton(
                               icon: Icon(
-                                Icons.message,
+                                FontAwesomeIcons.solidEnvelope,
                                 color: Colors.white,
                               ),
                               onPressed: () {
@@ -226,7 +226,7 @@ class _Home extends State<Home> {
                             padding: EdgeInsets.all(0.0),
                             child: IconButton(
                               icon: Icon(
-                                Icons.settings,
+                                FontAwesomeIcons.cog,
                                 color: Colors.white,
                               ),
                               onPressed: () {
@@ -268,7 +268,7 @@ class _Home extends State<Home> {
                     height: MediaQuery.of(context).size.height * 0.08,
                     width: MediaQuery.of(context).size.width * 0.30,
                     decoration: BoxDecoration(
-                      color: Colors.black,
+                      color: Color.fromARGB(255, 4, 14, 27),
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Text(
@@ -290,7 +290,7 @@ class _Home extends State<Home> {
                     height: MediaQuery.of(context).size.height * 0.08,
                     width: MediaQuery.of(context).size.width * 0.30,
                     decoration: BoxDecoration(
-                      color: Colors.black,
+                      color: Color.fromARGB(255, 4, 14, 27),
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Text(
@@ -311,7 +311,7 @@ class _Home extends State<Home> {
                     height: MediaQuery.of(context).size.height * 0.08,
                     width: MediaQuery.of(context).size.width * 0.30,
                     decoration: BoxDecoration(
-                      color: Colors.black,
+                      color: Color.fromARGB(255, 4, 14, 27),
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Text(

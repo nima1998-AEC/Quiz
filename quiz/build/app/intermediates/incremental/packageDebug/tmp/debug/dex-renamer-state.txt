@@ -1,4 +1,4 @@
-#Thu Oct 17 19:43:17 IRST 2019
-base.0=/home/nima/Working/Repository/quiz/build/app/intermediates/transforms/dexMerger/debug/0
+#Thu Oct 17 20:44:13 IRST 2019
+base.0=/home/nima/Working/Repository/Quiz/quiz/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

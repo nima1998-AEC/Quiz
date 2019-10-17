@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nima/Working/Repository/quiz/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "outputFile": "/home/nima/Working/Repository/Quiz/quiz/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/nima/Working/Repository/quiz/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/nima/Working/Repository/Quiz/quiz/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

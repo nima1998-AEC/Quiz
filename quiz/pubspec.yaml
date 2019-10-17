@@ -24,7 +24,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   persian_numbers: ^0.0.1
-  curved_navigation_bar: ^0.1.26
+  flutter_statusbar_manager: ^1.0.2
   circular_bottom_navigation: ^1.0.1
   font_awesome_flutter: ^8.5.0
 

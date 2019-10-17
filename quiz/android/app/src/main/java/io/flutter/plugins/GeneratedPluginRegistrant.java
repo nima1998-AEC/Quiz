@@ -1,6 +1,7 @@
 package io.flutter.plugins;
 
 import io.flutter.plugin.common.PluginRegistry;
+import com.foo.flutterstatusbarmanager.FlutterStatusbarManagerPlugin;
 
 /**
  * Generated file. Do not edit.
@@ -10,6 +11,7 @@ public final class GeneratedPluginRegistrant {
     if (alreadyRegisteredWith(registry)) {
       return;
     }
+    FlutterStatusbarManagerPlugin.registerWith(registry.registrarFor("com.foo.flutterstatusbarmanager.FlutterStatusbarManagerPlugin"));
   }
 
   private static boolean alreadyRegisteredWith(PluginRegistry registry) {

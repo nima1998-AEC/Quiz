@@ -5,6 +5,18 @@ INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/main/Andro
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:flutter_statusbar_manager] /home/nima/Working/Repository/Quiz/quiz/build/flutter_statusbar_manager/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a3092b77e5dfc45df5890bf4a809fd78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e1b6df14b980850ed4a376d560be8b5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83107791ec090e947d3d891543c020f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/41b7e1ef2bef64071dafdf1855adb693/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8768114460f7b51655433922a69cbd00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1bda6f06c8e25aecf56d138472aeea73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/14dc1565af90cc8666169d8f4a8bebf0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/668904f6b9de139d28b09572e1ff87a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a77393e1321dcbd60db0a10ff91b91f7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/babefc8d6f8849e8f9db8338038d4f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3eefa9657071b11bf5c99f62cc5e6a63/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -64,6 +76,30 @@ uses-sdk
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_statusbar_manager] /home/nima/Working/Repository/Quiz/quiz/build/flutter_statusbar_manager/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_statusbar_manager] /home/nima/Working/Repository/Quiz/quiz/build/flutter_statusbar_manager/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a3092b77e5dfc45df5890bf4a809fd78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a3092b77e5dfc45df5890bf4a809fd78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e1b6df14b980850ed4a376d560be8b5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e1b6df14b980850ed4a376d560be8b5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83107791ec090e947d3d891543c020f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83107791ec090e947d3d891543c020f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/41b7e1ef2bef64071dafdf1855adb693/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/41b7e1ef2bef64071dafdf1855adb693/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8768114460f7b51655433922a69cbd00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8768114460f7b51655433922a69cbd00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1bda6f06c8e25aecf56d138472aeea73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1bda6f06c8e25aecf56d138472aeea73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/14dc1565af90cc8666169d8f4a8bebf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/nima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/14dc1565af90cc8666169d8f4a8bebf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/668904f6b9de139d28b09572e1ff87a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/668904f6b9de139d28b09572e1ff87a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a77393e1321dcbd60db0a10ff91b91f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a77393e1321dcbd60db0a10ff91b91f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/babefc8d6f8849e8f9db8338038d4f6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/babefc8d6f8849e8f9db8338038d4f6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3eefa9657071b11bf5c99f62cc5e6a63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/nima/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3eefa9657071b11bf5c99f62cc5e6a63/AndroidManifest.xml:20:5-44
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/nima/Working/Repository/Quiz/quiz/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion

@@ -268,7 +268,11 @@ class _Home extends State<Home> {
                     height: MediaQuery.of(context).size.height * 0.08,
                     width: MediaQuery.of(context).size.width * 0.30,
                     decoration: BoxDecoration(
-                      color: Color.fromARGB(255, 4, 14, 27),
+                      image: DecorationImage(
+                        image: AssetImage("assets/qGame.png"),
+                        fit: BoxFit.fill,
+                      ),
+                      // color: Color.fromARGB(255, 4, 14, 27),
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Text(
@@ -290,7 +294,11 @@ class _Home extends State<Home> {
                     height: MediaQuery.of(context).size.height * 0.08,
                     width: MediaQuery.of(context).size.width * 0.30,
                     decoration: BoxDecoration(
-                      color: Color.fromARGB(255, 4, 14, 27),
+                      image: DecorationImage(
+                        image: AssetImage("assets/groupGame.png"),
+                        fit: BoxFit.fill,
+                      ),
+                      // color: Color.fromARGB(255, 50, 70, 36),
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Text(
@@ -311,7 +319,11 @@ class _Home extends State<Home> {
                     height: MediaQuery.of(context).size.height * 0.08,
                     width: MediaQuery.of(context).size.width * 0.30,
                     decoration: BoxDecoration(
-                      color: Color.fromARGB(255, 4, 14, 27),
+                      image: DecorationImage(
+                        image: AssetImage("assets/singleGame.png"),
+                        fit: BoxFit.fill,
+                      ),
+                      // color: Color.fromARGB(255, 4, 14, 27),
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Text(
